@@ -1,5 +1,5 @@
 [root]
-name = "duck"
+name = "pingduck"
 version = "0.1.0"
 dependencies = [
  "bodyparser 0.2.0 (git+https://github.com/iron/body-parser.git)",

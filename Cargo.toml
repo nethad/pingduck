@@ -1,5 +1,5 @@
 [package]
-name = "duck"
+name = "pingduck"
 version = "0.1.0"
 authors = ["Thomas Ritter <thomas.ritter@simplificator.com>"]
 

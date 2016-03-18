@@ -1,5 +1,5 @@
 extern crate iron;
-extern crate duck;
+extern crate pingduck;
 extern crate serde;
 extern crate serde_json;
 #[macro_use]
@@ -13,7 +13,7 @@ use iron::mime::Mime;
 use router::Router;
 use persistent::State;
 use iron::typemap::Key;
-use duck::*;
+use pingduck::*;
 
 #[derive(Copy, Clone)]
 pub struct NodePingState;
